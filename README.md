@@ -7,7 +7,7 @@
 
 > 
 
-- 🔭 目前在折腾：ai infra 投机解码
+- 🔭 目前在折腾：Ai infra ＆ Speculative Decoding
 
 <!--
 - 🌱 正在学：<技术>
